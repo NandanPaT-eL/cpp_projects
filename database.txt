@@ -1,0 +1,7 @@
+ 3 Soap 30 0
+ 5 All_Out 89 0
+ 6 Biscuit 79 5
+ 7 Coffee 159 0
+ 8 Tea 299 0
+ 9 Sugar 60 10
+ 10 Maggi 50 0
